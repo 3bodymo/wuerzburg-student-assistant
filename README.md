@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/bot_logo.png" alt="Bot Logo" width="200"/>
+  <img src="screenshots/bot_logo.png" alt="Bot Logo" width="300"/>
   <h1>Würzburg Student Assistant</h1>
 </div>
 

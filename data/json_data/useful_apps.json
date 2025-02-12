@@ -1,0 +1,58 @@
+[
+  {
+    "name": "WVVmobil",
+    "category": "Public Transport",
+    "description": "A free app serving as a helpful companion for public transport in Würzburg and the surrounding area, including discounted Germany tickets.",
+    "app_store_url": "https://apps.apple.com/de/app/wvvmobil/id6462117058",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.mdv.wvvgullivr"
+  },
+  {
+    "name": "Wolt",
+    "category": "Food Delivery",
+    "description": "Makes it easy to discover and get food, groceries, and other essentials delivered to your home or office in Würzburg.",
+    "app_store_url": "https://apps.apple.com/fi/app/wolt-delivery-food-and-more/id943905271",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.wolt.android"
+  },
+  {
+    "name": "FlixBus",
+    "category": "Transportation",
+    "description": "Offers affordable and convenient bus travel to and from Würzburg, connecting the city to numerous destinations across Europe.",
+    "app_store_url": "https://apps.apple.com/us/app/flixbus-flixtrain/id778437357",
+    "play_store_url": "https://play.google.com/store/apps/details?id=de.flixbus.app&hl=en"
+  },
+  {
+    "name": "eBay Kleinanzeigen",
+    "category": "Marketplace",
+    "description": "A popular platform for buying and selling items locally in Würzburg, ranging from furniture to electronics.",
+    "app_store_url": "https://apps.apple.com/de/app/kleinanzeigen-jetzt-ohne-ebay/id382596778",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.ebay.kleinanzeigen&hl=de"
+  },
+  {
+    "name": "BlaBlaCar",
+    "category": "Carpooling",
+    "description": "Connects drivers and passengers for carpooling opportunities, offering an affordable way to travel to and from Würzburg.",
+    "app_store_url": "https://apps.apple.com/de/app/blablacar-blablacar-bus/id341329033",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.comuto&hl=en"
+  },
+  {
+    "name": "Zeus",
+    "category": "Transportation",
+    "description": "Provides electric scooter rentals in Würzburg, offering a convenient and eco-friendly mode of transportation within the city.",
+    "app_store_url": "https://apps.apple.com/de/app/zeus-deutschland/id1484472542",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.zeus.app&hl=en"
+  },
+  {
+    "name": "Superpedestrian",
+    "category": "Transportation",
+    "description": "Offers electric scooter rentals in Würzburg, providing an efficient and sustainable way to navigate the city.",
+    "app_store_url": "https://apps.apple.com/us/app/superpedestrian-link-scooters/id1487864428",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.superpedestrian.link&hl=en"
+  },
+  {
+    "name": "DB Navigator",
+    "category": "Transportation",
+    "description": "Your ideal travel companion for regional and long-distance travel, as well as for underground, tram, and bus services.",
+    "app_store_url": "https://apps.apple.com/us/app/db-navigator/id343555245",
+    "play_store_url": "https://play.google.com/store/apps/details?id=de.hafas.android.db&hl=de"
+  }
+]

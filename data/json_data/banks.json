@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Deutsche Bank",
+    "description": "A leading German bank offering a wide range of financial services.",
+    "website_url": "https://www.deutschebank.de",
+    "free_student_plan_available": true
+  },
+  {
+    "name": "Commerzbank",
+    "description": "A major German bank with a strong focus on small and medium-sized enterprises.",
+    "website_url": "https://www.commerzbank.de",
+    "free_student_plan_available": false
+  },
+  {
+    "name": "KfW Bankengruppe",
+    "description": "A German government-owned development bank.",
+    "website_url": "https://www.kfw.de",
+    "free_student_plan_available": true
+  },
+  {
+    "name": "Sparkasse",
+    "description": "A network of public savings banks in Germany, offering a variety of financial services.",
+    "website_url": "https://www.sparkasse.de",
+    "free_student_plan_available": true
+  },
+  {
+    "name": "Revolut",
+    "description": "A digital bank offering a range of financial services, including currency exchange and international transfers.",
+    "website_url": "https://www.revolut.com",
+    "free_student_plan_available": true
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "company_name": "Techniker Krankenkasse (TK)",
+    "category": "Public Health Insurance",
+    "description": "TK is one of the largest public health insurance providers in Germany, known for its excellent customer service and comprehensive coverage.",
+    "company_url": "https://www.tk.de/"
+  },
+  {
+    "company_name": "AOK",
+    "category": "Public Health Insurance",
+    "description": "AOK is a major public health insurance company in Germany, offering a wide range of services and extensive regional coverage.",
+    "company_url": "https://www.aok.de/"
+  },
+  {
+    "company_name": "Barmer",
+    "category": "Public Health Insurance",
+    "description": "Barmer is a prominent public health insurer in Germany, providing comprehensive healthcare services to its members.",
+    "company_url": "https://www.barmer.de/"
+  },
+  {
+    "company_name": "Ottonova",
+    "category": "Private Health Insurance",
+    "description": "Ottonova is a digital-first private health insurance provider in Germany, recognized for its user-friendly app and concierge services.",
+    "company_url": "https://www.ottonova.de/"
+  },
+  {
+    "company_name": "HanseMerkur",
+    "category": "Private Health Insurance",
+    "description": "HanseMerkur offers private health insurance plans in Germany, focusing on personalized customer service and comprehensive coverage.",
+    "company_url": "https://www.hansemerkur.de/"
+  },
+  {
+    "company_name": "Feather Insurance",
+    "category": "Private Health Insurance",
+    "description": "Feather provides private health insurance tailored for expats in Germany, offering fully digital services and English-speaking support.",
+    "company_url": "https://feather-insurance.com/"
+  },
+  {
+    "company_name": "DKV",
+    "category": "Private Health Insurance",
+    "description": "DKV is a well-established private health insurer in Germany, offering a variety of health insurance plans to meet diverse needs.",
+    "company_url": "https://www.dkv.com/"
+  },
+  {
+    "company_name": "Hallesche",
+    "category": "Private Health Insurance",
+    "description": "Hallesche provides private health insurance solutions in Germany, known for its comprehensive coverage and customer-oriented services.",
+    "company_url": "https://www.hallesche.de/"
+  },
+  {
+    "company_name": "Allianz",
+    "category": "Private Insurance",
+    "description": "Allianz is a leading global insurance provider offering a wide range of services, including property, casualty, life, and travel insurance.",
+    "company_url": "https://www.allianz.de/"
+  },
+  {
+    "company_name": "AXA",
+    "category": "Private Insurance",
+    "description": "AXA is a multinational insurance firm providing services such as vehicle, home, liability, and life insurance.",
+    "company_url": "https://www.axa.de/"
+  },
+  {
+    "company_name": "Gothaer",
+    "category": "Private Insurance",
+    "description": "Gothaer offers various insurance products, including property, liability, and life insurance, catering to both private and corporate clients.",
+    "company_url": "https://www.gothaer.de/"
+  },
+  {
+    "company_name": "HUK-COBURG",
+    "category": "Private Insurance",
+    "description": "HUK-COBURG specializes in automobile insurance but also provides property, liability, and legal protection insurance.",
+    "company_url": "https://www.huk.de/"
+  },
+  {
+    "company_name": "ERGO Group",
+    "category": "Private Insurance",
+    "description": "ERGO is one of the major insurance groups in Germany, offering a comprehensive range of insurance products, including life, property, and legal protection insurance.",
+    "company_url": "https://www.ergo.de/"
+  },
+  {
+    "company_name": "HDI",
+    "category": "Private Insurance",
+    "description": "HDI provides various insurance solutions, including liability, property, and motor vehicle insurance for both individuals and businesses.",
+    "company_url": "https://www.hdi.de/"
+  },
+  {
+    "company_name": "Signal Iduna",
+    "category": "Private Insurance",
+    "description": "Signal Iduna offers a broad spectrum of insurance services, such as accident, property, and life insurance, tailored for private clients and small to medium-sized enterprises.",
+    "company_url": "https://www.signal-iduna.de/"
+  },
+  {
+    "company_name": "VHV Group",
+    "category": "Private Insurance",
+    "description": "VHV Group specializes in property and casualty insurance, particularly in the construction sector, and also offers automobile insurance.",
+    "company_url": "https://www.vhv.de/"
+  },
+  {
+    "company_name": "Talanx",
+    "category": "Private Insurance",
+    "description": "Talanx is a major European insurance group offering a range of services, including property, casualty, and life insurance, serving both private and corporate clients.",
+    "company_url": "https://www.talanx.com/"
+  },
+  {
+    "company_name": "LV 1871",
+    "category": "Private Insurance",
+    "description": "LV 1871 specializes in life, pension, and disability insurance, providing tailored solutions for individual retirement planning.",
+    "company_url": "https://www.lv1871.de/"
+  }
+]

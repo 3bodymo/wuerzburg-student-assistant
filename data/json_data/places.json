@@ -1,0 +1,306 @@
+[
+  {
+    "name": "Backöfele",
+    "category": "restaurant",
+    "address": "Ursulinergasse 2, 97070 Würzburg, Germany",
+    "description": "A traditional Franconian restaurant offering regional specialties in a cozy atmosphere.",
+    "price_range": "€€",
+    "rating": 4.5
+  },
+  {
+    "name": "Veggie Bros",
+    "category": "restaurant",
+    "address": "Sanderstraße 2, 97070 Würzburg, Germany",
+    "description": "A popular spot for healthy, street food-style vegetarian and vegan dishes.",
+    "price_range": "€",
+    "rating": 4.5
+  },
+  {
+    "name": "Café Wunschlos Glücklich",
+    "category": "cafe",
+    "address": "Bronnbachergasse 22R, 97070 Würzburg, Germany",
+    "description": "A charming café known for its cozy interior and freshly prepared snacks and beverages.",
+    "price_range": "€€",
+    "rating": 4.5
+  },
+  {
+    "name": "Café Mozart",
+    "category": "cafe",
+    "address": "Theaterstraße 21, 97070 Würzburg, Germany",
+    "description": "A vibrant café-bistro offering a bustling atmosphere, craft cocktails, and an array of global dishes.",
+    "price_range": "€€",
+    "rating": 4.3
+  },
+  {
+    "name": "Würzburg Residence",
+    "category": "tourist attraction",
+    "address": "Residenzplatz 2, 97070 Würzburg, Germany",
+    "description": "A UNESCO World Heritage Site, this baroque palace is renowned for its stunning architecture and gardens.",
+    "price_range": null,
+    "rating": 4.8
+  },
+  {
+    "name": "Marienberg Fortress",
+    "category": "tourist attraction",
+    "address": "Festung Marienberg, 97082 Würzburg, Germany",
+    "description": "A historic fortress offering panoramic views of the city and housing several museums.",
+    "price_range": null,
+    "rating": 4.7
+  },
+  {
+    "name": "Würzburg City Library",
+    "category": "library",
+    "address": "Marktplatz 9, 97070 Würzburg, Germany",
+    "description": "The main public library offering a vast collection of books, digital media, and study spaces.",
+    "price_range": null,
+    "rating": 4.6
+  },
+  {
+    "name": "Stadtteilbücherei Heidingsfeld",
+    "category": "library",
+    "address": "Wenzelstraße 15, 97084 Würzburg, Germany",
+    "description": "A local branch library providing a selection of books and community events.",
+    "price_range": null,
+    "rating": 4.4
+  },
+  {
+    "name": "REWE",
+    "category": "supermarket",
+    "address": "Multiple locations throughout Würzburg",
+    "description": "A popular supermarket known for its fresh produce and bakery section.",
+    "price_range": null,
+    "rating": 4.1
+  },
+  {
+    "name": "Alte Mainmühle",
+    "category": "restaurant",
+    "address": "Mainkai 1, 97070 Würzburg, Germany",
+    "description": "A picturesque restaurant located by the Old Main Bridge, offering Franconian cuisine with river views.",
+    "price_range": "€€",
+    "rating": 4.6
+  },
+  {
+    "name": "Il Grano",
+    "category": "restaurant",
+    "address": " Kranenkai 14, 97070 Würzburg, Germany",
+    "description": "An Italian restaurant known for its authentic dishes and cozy atmosphere.",
+    "price_range": "€€",
+    "rating": 4.5
+  },
+  {
+    "name": "Café Fred",
+    "category": "cafe",
+    "address": "Herzogenstraße 4, 97070 Würzburg, Germany",
+    "description": "A modern café offering a variety of breakfast options, pastries, and specialty coffees.",
+    "price_range": "€€",
+    "rating": 4.4
+  },
+  {
+    "name": "Kaffee Manufaktur",
+    "category": "cafe",
+    "address": "Spiegelstraße 19, 97070 Würzburg, Germany",
+    "description": "A specialty coffee roastery and café known for its high-quality brews and cozy setting.",
+    "price_range": "€€",
+    "rating": 4.7
+  },
+  {
+    "name": "Alte Mainbrücke (Old Main Bridge)",
+    "category": "tourist attraction",
+    "address": "Alte Mainbrücke, 97070 Würzburg, Germany",
+    "description": "A historic bridge adorned with statues, offering scenic views of the Main River and the city.",
+    "price_range": null,
+    "rating": 4.7
+  },
+  {
+    "name": "Käppele Sanctuary",
+    "category": "tourist attraction",
+    "address": "Spittelbergweg 21, 97082 Würzburg, Germany",
+    "description": "A beautiful pilgrimage church located on a hill, known for its stunning architecture and panoramic views.",
+    "price_range": null,
+    "rating": 4.6
+  },
+  {
+    "name": "Stadtbücherei Würzburg im Falkenhaus",
+    "category": "library",
+    "address": "Marktplatz 9, 97070 Würzburg, Germany",
+    "description": "A central library housed in the historic Falkenhaus, offering a wide range of media and reading spaces.",
+    "price_range": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Norma",
+    "category": "supermarket",
+    "address": "Multiple locations throughout Würzburg",
+    "description": "A discount supermarket chain offering a variety of groceries and household products.",
+    "price_range": null,
+    "rating": 4.0
+  },
+  {
+    "name": "Lidl",
+    "category": "supermarket",
+    "address": "Multiple locations throughout Würzburg",
+    "description": "A discount supermarket chain offering a variety of groceries and household products.",
+    "price_range": null,
+    "rating": 4.0
+  },
+  {
+    "name": "ALDI Süd",
+    "category": "supermarket",
+    "address": "Multiple locations throughout Würzburg",
+    "description": "A popular discount supermarket known for its range of affordable groceries and weekly special offers.",
+    "price_range": null,
+    "rating": 4.2
+  },
+  {
+    "name": "Kupsch-Markt Esser",
+    "category": "supermarket",
+    "address": "Frankfurter Straße 42-44, 97082 Würzburg, Germany",
+    "description": "A local supermarket offering a selection of fresh produce, meats, and daily essentials.",
+    "price_range": null,
+    "rating": 4.1
+  },
+  {
+    "name": "Ahsa Türkischer Supermarkt",
+    "category": "supermarket",
+    "address": "Nürnberger Straße 14, 97076 Würzburg, Germany",
+    "description": "A Turkish supermarket offering a variety of Middle Eastern and Mediterranean products.",
+    "price_range": null,
+    "rating": 4.3
+  },
+  {
+    "name": "L'Osteria",
+    "category": "restaurant",
+    "address": "Paradepl. 4, 97070 Würzburg, Germany",
+    "description": "An Italian restaurant known for its oversized pizzas and classic pasta dishes in a lively atmosphere.",
+    "price_range": "€€",
+    "rating": 4.4
+  },
+  {
+    "name": "Brauerei-Gasthof Alter Kranen",
+    "category": "restaurant",
+    "address": "Kranenkai 1, 97070 Würzburg, Germany",
+    "description": "A brewery and restaurant offering traditional German dishes and house-brewed beers with river views.",
+    "price_range": "€€",
+    "rating": 4.5
+  },
+  {
+    "name": "Café Centrale",
+    "category": "cafe",
+    "address": "Bronnbachergasse 25, 97070 Würzburg",
+    "description": "A central café offering a variety of coffee specialties, pastries, and light meals in a modern setting.",
+    "price_range": "€",
+    "rating": 4.7
+  },
+  {
+    "name": "Kulturspeicher Würzburg",
+    "category": "tourist attraction",
+    "address": "Oskar-Laredo-Platz 1, 97080 Würzburg, Germany",
+    "description": "A cultural center and museum housed in a former grain storage building, featuring modern art exhibitions.",
+    "price_range": null,
+    "rating": 4.6
+  },
+  {
+    "name": "Martin von Wagner Museum",
+    "category": "tourist attraction",
+    "address": "Residenzplatz 2A, 97070 Würzburg, Germany",
+    "description": "A university museum showcasing a collection of antiquities, paintings, and graphic art.",
+    "price_range": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Universitätsbibliothek Würzburg",
+    "category": "library",
+    "address": "Am Hubland, 97074 Würzburg, Germany",
+    "description": "The main library of the University of Würzburg, offering extensive academic resources and study spaces.",
+    "price_range": null,
+    "rating": 4.1
+  },
+  {
+    "name": "Sankt Michael",
+    "category": "restaurant",
+    "address": "Balthasar-Neumann-Promenade 10, 97070 Würzburg, Germany",
+    "description": "A fine dining establishment known for its modern European dishes and elegant ambiance.",
+    "price_range": "€€€",
+    "rating": 4.7
+  },
+  {
+    "name": "Maiz Taqueria",
+    "category": "restaurant",
+    "address": "Katharinengasse 7, 97070 Würzburg, Germany",
+    "description": "A vibrant taqueria offering authentic Mexican street food, including a variety of tacos and quesadillas.",
+    "price_range": "€€",
+    "rating": 4.7
+  },
+  {
+    "name": "Café Rudowitz",
+    "category": "cafe",
+    "address": "Sanderstraße 10a, 97070 Würzburg, Germany",
+    "description": "A traditional café offering a wide selection of cakes, pastries, and coffee specialties in a classic setting.",
+    "price_range": "€€",
+    "rating": 4.3
+  },
+  {
+    "name": "Ran Khao Gang",
+    "category": "restaurant",
+    "address": "Gotengasse 3, 97070 Würzburg, Germany",
+    "description": "A popular spot for Thai street food, offering a variety of dishes with bold flavors and fresh ingredients.",
+    "price_range": "€",
+    "rating": 4.6
+  },
+  {
+    "name": "Marienkapelle",
+    "category": "tourist attraction",
+    "address": "Marktpl. 7, 97070 Würzburg, Germany",
+    "description": "A Gothic-style chapel located in the market square, known for its striking red and white exterior and historical significance.",
+    "price_range": null,
+    "rating": 4.6
+  },
+  {
+    "name": "Neumünster Collegiate Church",
+    "category": "tourist attraction",
+    "address": "Martinstraße 4, 97070 Würzburg, Germany",
+    "description": "A Romanesque church featuring impressive Baroque architecture and the tomb of the famous minstrel Walther von der Vogelweide.",
+    "price_range": null,
+    "rating": 4.5
+  },
+  {
+    "name": "Netto Marken-Discount",
+    "category": "supermarket",
+    "address": "Max-Mengeringhausen-Straße 22, 97084 Würzburg, Germany",
+    "description": "A discount supermarket chain offering a wide range of groceries and household items at affordable prices.",
+    "price_range": null,
+    "rating": 3.9
+  },
+  {
+    "name": "Penny Markt",
+    "category": "supermarket",
+    "address": "Wolfhartsgasse 3, 97070 Würzburg, Germany",
+    "description": "A budget-friendly supermarket known for its weekly specials and a variety of fresh produce.",
+    "price_range": null,
+    "rating": 4.0
+  },
+  {
+    "name": "Stadt Würzburg (City Hall)",
+    "category": "tourist attraction",
+    "address": "Rückermainstraße 2, 97070 Würzburg, Germany",
+    "description": "The historic city hall of Würzburg, featuring beautiful Gothic architecture and serving as the seat of local government.",
+    "price_range": null,
+    "rating": 2.9
+  },
+  {
+    "name": "dm",
+    "category": "drugstore",
+    "address": "Multiple locations throughout Würzburg",
+    "description": "A popular drugstore chain offering personal care items, cosmetics, and health products.",
+    "price_range": null,
+    "rating": 4.3
+  },
+  {
+    "name": "Rossmann",
+    "category": "drugstore",
+    "address": "Multiple locations throughout Würzburg",
+    "description": "A well-known drugstore chain providing a wide range of personal care, beauty, and household products.",
+    "price_range": null,
+    "rating": 4.2
+  }
+]

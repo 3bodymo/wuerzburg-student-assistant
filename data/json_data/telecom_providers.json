@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Deutsche Telekom AG",
+    "description": "A leading German telecommunications company offering a wide range of services, including fixed-line and mobile telephony, broadband internet, and digital television.",
+    "website_url": "https://www.telekom.com"
+  },
+  {
+    "name": "Vodafone GmbH",
+    "description": "A major global telecommunications provider offering mobile and fixed-line services, broadband internet, and digital television in Germany.",
+    "website_url": "https://www.vodafone.de"
+  },
+  {
+    "name": "1&1 AG",
+    "description": "A German telecommunications service provider offering mobile and broadband internet services, known for its competitive pricing and customer service.",
+    "website_url": "https://www.1und1.ag"
+  },
+  {
+    "name": "Telefónica Germany GmbH & Co. OHG",
+    "description": "Operates under the O₂ brand, providing mobile and fixed-line services, broadband internet, and digital television in Germany.",
+    "website_url": "https://www.o2online.de"
+  },
+  {
+    "name": "Zentrum für Telematik e.V.",
+    "description": "A research institution focusing on telematics, offering solutions in automation, mobile systems, and space applications.",
+    "website_url": "https://www.telematik-zentrum.de/en/"
+  },
+  {
+    "name": "Circet Deutschland SE",
+    "description": "A network service provider specializing in the design, construction, and maintenance of telecom networks and technology systems.",
+    "website_url": "https://www.circet.com/"
+  },
+  {
+    "name": "Bertrandt Services GmbH",
+    "description": "Provides engineering services, including telecommunications solutions, with a focus on automotive and industrial sectors.",
+    "website_url": "https://www.bertrandt.com/en/company/bertrandt-group/locations/wuerzburg"
+  }
+]

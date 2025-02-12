@@ -1,0 +1,117 @@
+[
+  {
+    "title": "Apartments Under Company Management",
+    "description": "🏢 Some companies offer apartments for students:\n\n🏠 Green Living Inn:\nhttps://www.greenlivinginn.de/englisch/wuerzburg\n\n🌆 522 City:\nhttps://www.522.city/startseite.html",
+    "category": "Housing"
+  },
+  {
+    "title": "Studentwerk Apartments",
+    "description": "The Studierendenwerk Würzburg operates 12 student residences in Würzburg, offering a total of 2,887 rooms. \n\n🛏️ These are affordable options for students. Apply early, as spots fill up quickly.\n\nhttps://www.swerk-wue.de/en/wuerzburg/accommodation",
+    "category": "Housing"
+  },
+  {
+    "title": "City Registration",
+    "description": "📝 Everyone in Germany must register their address within 2 weeks of moving in. This is required by law and you'll need the registration document for:\n\n• Opening a bank account\n• Getting a residence permit\n• Starting a job\n\nBook an appointment:\nhttps://www.wuerzburg.de/rathaus/buergerbuero/terminvereinbarung.\n\nBring your passport and rental contract! 🏠",
+    "category": "Immigration Office"
+  },
+  {
+    "title": "Residence Permit Application",
+    "description": "📋 Required documents for residence permit:\n\n• Completed application form:\nhttps://www.wuerzburg.de/r_409094\n• Current enrollment certificate\n• Current ECTS overview\n• Health insurance proof\n• Blocked account with minimum €5,952 (better €11,904 for longer permit)\n• Biometric photo (€7, take at service point)\n• Valid passport\n• Application Fee: €100\n\n💰 Important financial notes:\n• Monthly allowance: €992 (from Oct 2024)\n• Work contracts not accepted as financial proof\n• Alternative: Formal obligation (§68 AufenthG) or scholarship\n\n⏰ Important:\n• Contact immigration office 2 months before visa expires\n• Email depends on first letter of your last name.\n\nFind your contact here:\nhttps://www.wuerzburg.de/rathaus/internationale-angelegenheiten/staatsangehoerigkeits--und-auslaenderangelegenheiten/studium\n\n⚠️ Requirements may change! Always check with the immigration office for current requirements.",
+    "category": "Immigration Office"
+  },
+  {
+    "title": "Visiting a Doctor",
+    "description": "👨‍⚕️ In Germany, you should register with a family doctor (Hausarzt) as they:\n\n• Are your first point of contact when sick\n• Can refer you to specialists\n• Know your medical history\n• Handle regular check-ups\n\nFind family doctors in Würzburg here:\nhttps://www.medpertise.de/aerzte/allgemeinarzt-hausarzt/wuerzburg/\n\nFor emergencies, call 112 for an ambulance. 🚑",
+    "category": "Healthcare"
+  },
+  {
+    "title": "Medical On-Call Service",
+    "description": "📞 When you need medical help outside regular office hours but it's not life-threatening:\n\n• Call 116 117 (no area code needed)\n• Free medical advice 24/7\n• They can send an on-call doctor\n\nFor real emergencies, still call 112! 🚨",
+    "category": "Healthcare"
+  },
+  {
+    "title": "University Sports Center",
+    "description": "🏋️ Stay active at the University Sports Center:\nhttps://www.hochschulsport-wuerzburg.de\n\nThey offer:\n• Affordable prices for students\n• Wide variety of sports\n• Professional trainers\n\nCheck out their course catalog for available activities! 💪\nhttps://www.hochschulsport-wuerzburg.de/courses",
+    "category": "University Sports"
+  },
+  {
+    "title": "German Language Courses",
+    "description": "🇩🇪 Learn German at:\n\n• Universität Würzburg:\nhttps://www.uni-wuerzburg.de/en/zfs/sprachen/german-as-a-foreign-language/daf-news/german-courses/\n\n• THWS:\nhttps://www.thws.de/en/further-education-thws/foreign-languages/german-language-courses/\n\nBoth universities offer various levels and intensive courses. Apply early! 📅",
+    "category": "Education"
+  },
+  {
+    "title": "Scholarships",
+    "description": "🎓 Check available scholarships at:\n\n• THWS Scholarships:\nhttps://www.thws.de/en/services-and-support/scholarships/national-scholarship/\n\n• Universität Würzburg Scholarships:\nhttps://www.uni-wuerzburg.de/en/international/studying-in-wuerzburg/scholarships/",
+    "category": "Education"
+  },
+  {
+    "title": "Erasmus Semester Abroad",
+    "description": "🌍 Explore Erasmus opportunities at:\n\n• Universität Würzburg:\nhttps://www.uni-wuerzburg.de/international/studieren-im-ausland/erasmus-studium/\n\n• THWS:\nhttps://international.thws.de/en/thws-international/projects-and-cooperations/projects/erasmus/\n\nContact your university's international office for more details. ✈️",
+    "category": "Education"
+  },
+  {
+    "title": "Free Public Transport",
+    "description": "🚌 Your semester ticket (included in semester fees) gives you free rides within Würzburg. Check the WVV app for schedules and routes!",
+    "category": "Life Tips"
+  },
+  {
+    "title": "Deutschland Ticket",
+    "description": "🎫 Regular price: 58€ monthly, but students get a discount through the WVV app:\n\n• App Store:\nhttps://apps.apple.com/de/app/wvvmobil/id6462117058\n• Google Play:\nhttps://play.google.com/store/apps/details?id=com.mdv.wvvgullivr&hl=de\n\n✈️ Travel anywhere in Germany with public transport! Plus, you can also travel to select cities in:\n\n• Austria (Salzburg)\n• Denmark (Tønder)\n• France (Strasbourg)\n• Luxembourg (Luxembourg)\n\n⚠️ Important notes:\n\n• Valid only for 2nd class regular trains\n• Automatically renews each month\n• Cancel before the 10th to avoid next month's charge\n• Buying after the 10th commits you to 2 months",
+    "category": "Life Tips"
+  },
+  {
+    "title": "Waste Separation",
+    "description": "🗑️ Separate your trash into paper, plastic, glass, and bio-waste.\n\nLearn how to properly sort your waste here:\nhttps://www.ecosistant.eu/en/separate-waste/\n",
+    "category": "Life Tips"
+  },
+  {
+    "title": "Free Legal Services",
+    "description": "⚖️ The Studierendenwerk offers free legal consultation for all students.\n\nTopics covered:\n• Rental contracts\n• Work contracts\n• Insurance issues\n• Other legal matters\n\nGet more information and current schedule here:\n\nhttps://www.swerk-wue.de/en/consultancy/legal-advice.",
+    "category": "Life Tips"
+  },
+  {
+    "title": "Radio and TV Tax (Rundfunkbeitrag)",
+    "description": "📺 The Rundfunkbeitrag is mandatory in Germany:\n\n• Cost: €18.36 monthly\n• One payment per apartment (not per person)\n• Register at: www.rundfunkbeitrag.de\n\n💡 Tips:\n• Share the cost with roommates\n• Payment options: quarterly, or yearly\n• Keep proof of payment\n\n⚠️ Don't ignore letters from ARD ZDF Deutschlandradio - fines can be expensive!",
+    "category": "Life Tips"
+  },
+  {
+    "title": "Important Daily Life Info",
+    "description": "⚠️ Essential things to know in Germany:\n\n🏪 Shopping Hours:\n• Most stores close at 20:00 (8 PM)\n• Closed on Sundays and public holidays\n• Plan grocery shopping accordingly\n• Some gas stations and small shops at train stations remain open\n• Bring your own shopping bags or you'll need to buy them\n\n🌐 Internet Usage:\n• Never use torrent services\n• Fines for illegal downloads can be thousands of euros\n• Use official streaming services only\n\n🚂 Public Transport:\n• Trains can face delays\n• Download Deutsche Bahn app for real-time updates\n• Always plan extra time for important appointments\n• Sign up for delay alerts\n\n📅 Public Holidays:\n• Check local holiday calendar\n• Stores and offices are closed\n• Public transport runs on holiday schedule\n\n🏛️ Studentenwerk:\n• Mensa: a net of cantines with very reasonable prices for students\n• Application for dorms\n• Cultural events\n• Infopoint and help for newcomers\n\nhttps://www.swerk-wue.de/en/wuerzburg",
+    "category": "Life Tips"
+  },
+  {
+    "title": "New Student Checklist",
+    "description": "✅ Essential steps when arriving in Germany as a student:\n\n0️⃣ Before Arrival:\n• Make sure you have all the documents for enrollment and arrival\n• Find an insurance company and sign a contract with them\n• If you want to live in a student dorm, apply as soon as possible\n• Be aware of fraud when applying for WGs and private apartments\n\n1️⃣ First Week:\n• Register your address (Anmeldung) within 2 weeks\n• Contact your health insurance company to confirm arrival and complete activation\n• Open a German bank account\n• Get a SIM card for your phone\n\n2️⃣ First Month:\n• Apply for residence permit (if non-EU and visa expires in 3 months)\n• Get student ID\n• Register for Germany TV tax (Rundfunkbeitrag)\n\n3️⃣ Getting Started:\n• Find accommodation\n• Register with a family doctor (Hausarzt)\n• Consider Deutschland Ticket for nationwide travel\n\n4️⃣ Integration:\n• Join orientation events at university\n• Register for German language courses\n• Get to know the city transport system\n• Join university sports or clubs\n\n💡 Pro Tips:\n• Keep copies of all important documents\n• Save emergency numbers (112 for emergencies, 116117 for medical)\n• Learn about waste separation rules\n• Download essential apps (public transport, banking)\n• Join student groups on social media\n\n⚠️ Remember:\n• Always carry student card (it's your transportation ticket)\n• Keep residence permit appointments\n• Check email regularly for university communications\n• Plan finances carefully\n\nMore detailed information available in other sections!",
+    "category": "Life Tips"
+  },
+  {
+    "title": "Eisbahn Würzburg",
+    "description": "⛸️ An ice skating rink perfect for winter fun!\n\n📍 Address:\nNigglweg 2, 97082 Würzburg\n\n✨ Features:\n• Open during winter months\n• Suitable for all skill levels\n• Both recreational and professional skating\n\n🔗 More info:\nhttps://www.wvv.de/baeder/eisbahn-wuerzburg/index.html",
+    "category": "Skating Places"
+  },
+  {
+    "title": "Skatepark Zellerauer Mainwiesen",
+    "description": "🛹 A massive 1,200-square-meter skate paradise!\n\n📍 Address:\nMainaustraße 46, 97082 Würzburg\n\n✨ Features:\n• Perfect for beginners\n• Professional-grade obstacles\n• Space to practice tricks\n• Open-air facility",
+    "category": "Skating Places"
+  },
+  {
+    "title": "Marienberg Fortress Loop",
+    "description": "🏰 Historic hiking adventure around Marienberg Fortress!\n\n📏 Trail Length: 7.3 km\n\n✨ Highlights:\n• Panoramic city views\n• Main River vistas\n• Historical surroundings\n• Well-marked paths\n\n🔗 Trail details:\nhttps://www.alltrails.com/germany/bavaria/wurzburg",
+    "category": "Hiking Trails"
+  },
+  {
+    "title": "Stein-Wein-Pfad",
+    "description": "🍇 The famous Stone and Wine Trail!\n\n📏 Trail Length: 4 km\n\n✨ Highlights:\n• Panoramic circular route\n• Famous vineyard views\n• City overlooks\n• Main River vistas\n\n🔗 Trail details:\nhttps://www.outdooractive.com/en/route/nature-trail/wuerzburg/the-stone-and-wine-trail/53657923/",
+    "category": "Hiking Trails"
+  },
+  {
+    "title": "Turngemeinde Würzburg von 1848 e.V.",
+    "description": "🏋️‍♂️ One of Würzburg's oldest and largest sports clubs!\n\n📍 Address:\nMilly-Marbe-Fries-Weg 1, 97074 Würzburg\n\n🎯 Activities:\n• Gymnastics\n• Basketball\n• Various sports programs\n\n🔗 Club details:\nhttps://tgw-online.de",
+    "category": "Sports Clubs"
+  },
+  {
+    "title": "DJK Würzburg",
+    "description": "🏀 Home of champions, including Dirk Nowitzki!\n\n📍 Address:\nWredestraße 23, 97082 Würzburg\n\n🎯 Features:\n• Professional basketball program\n• Multi-sport facilities\n• All age groups welcome\n\n🔗 Club details:\nhttps://djk-wuerzburg.de",
+    "category": "Sports Clubs"
+  }
+]

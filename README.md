@@ -1,6 +1,20 @@
-# Würzburg Student Assistant
+<div align="center">
+  <img src="screenshots/bot_logo.png" alt="Bot Logo" width="200"/>
+  <h1>Würzburg Student Assistant</h1>
+</div>
 
 A comprehensive assistant system for new students in Würzburg, featuring both a FastAPI backend and a Telegram bot interface. The system uses Retrieval-Augmented Generation (RAG) and OpenAI models to provide intelligent responses and recommendations for essential daily life tasks.
+
+## Demo
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshots/bot_interface.png" alt="Bot Interface" width="300"/></td>
+      <td><img src="screenshots/bot_commands.png" alt="Bot Commands" width="300"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Setup
 

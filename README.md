@@ -5,8 +5,6 @@
 
 A comprehensive assistant system for new students in Würzburg, featuring both a FastAPI backend and a Telegram bot interface. The system uses Retrieval-Augmented Generation (RAG) and OpenAI models to provide intelligent responses and recommendations for essential daily life tasks.
 
-## Demo
-
 <div align="center">
   <table>
     <tr>
